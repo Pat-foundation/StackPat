@@ -6,4 +6,6 @@ and report bugs
 
 <a href="https://github.com/Pat-foundation/StackPat/issues">issues</a>
 
+<img src="image/issues.png">
+
 
